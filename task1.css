@@ -130,14 +130,14 @@ body{
     gap: 10px;
     justify-content: center;
 }
-.thumbnail {
+.A {
     width: 150px;
     height: 100px;
     object-fit: cover;
     cursor: pointer;
     border: 2px solid transparent;
 }
-.thumbnail {
+.A {
     width: 150px;
     height: 100px;
     object-fit: cover;
@@ -145,6 +145,6 @@ body{
     border: 2px solid transparent;
 }
 
-.thumbnail:hover {
+.A:hover {
     border-color: #333;
 }
